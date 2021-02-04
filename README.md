@@ -1,6 +1,7 @@
 ### 启动步骤：
 
 nextjs :  `npm i && npm run build && node server.js`
+
 main :  `npm i && npm run start`
 
 ### 复现步骤:
